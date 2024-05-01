@@ -3,6 +3,7 @@ body {
   font-size: 1.6rem;
 
   background-image: url('../images/mountains-universe-1.png');
+  overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
